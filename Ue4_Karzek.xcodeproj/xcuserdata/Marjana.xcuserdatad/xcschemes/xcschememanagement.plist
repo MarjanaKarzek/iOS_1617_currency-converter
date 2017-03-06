@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Ue4_Karzek.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>D67012901DF70CF300B4EB51</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D67012A41DF70CF400B4EB51</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D67012AF1DF70CF400B4EB51</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
